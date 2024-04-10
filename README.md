@@ -32,6 +32,7 @@ class student:
     수학 = int(input('1번째 학생의 수학 성적 입력: '))
 
 ##시도해본것 2
+
 N = int(input('학생 수 입력 (N): '))
 
 for N in range(0,N):
